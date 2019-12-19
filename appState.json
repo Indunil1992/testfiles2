@@ -1,0 +1,271 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "a3f17619-a9eb-477b-b8da-563c55c84769": {
+        "id": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "parent": null,
+        "name": "testfiles2",
+        "type": "DIRECTORY",
+        "isDirectory": true,
+        "children": [
+          "59c4c372-01e8-44a7-aa95-bdedfbe7b2e6",
+          "48987333-5fd4-445b-aa0b-f73d098b7055",
+          "5f166373-4a5a-4056-a92b-2f011328b5ce",
+          "27d80b4f-4589-4566-a02b-e8b990cc736e",
+          "7f734a3c-1439-4721-a4b8-b238bcd3a25c",
+          "041e43bb-1cc7-4b0c-8736-c8ae94e376b5",
+          "c2cb793c-dda5-4d98-9e4f-5aef464574e6",
+          "63a4046e-f47b-4a8f-86f2-ac53c8ce0996",
+          "5dddc8ad-e1e5-4aaa-b43a-5b34acda7d87",
+          "fad21ef7-8ed1-4428-893c-724fc7f0e085"
+        ],
+        "isRemovable": false,
+        "filePath": "testfiles2"
+      },
+      "59c4c372-01e8-44a7-aa95-bdedfbe7b2e6": {
+        "id": "59c4c372-01e8-44a7-aa95-bdedfbe7b2e6",
+        "parent": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "name": "lambda.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testfiles2/lambda.js",
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": [
+          {
+            "resourceName": "apigusEast1indunilzooindunilqasnsany",
+            "config": {}
+          }
+        ]
+      },
+      "48987333-5fd4-445b-aa0b-f73d098b7055": {
+        "id": "48987333-5fd4-445b-aa0b-f73d098b7055",
+        "parent": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "name": "html.html",
+        "type": "HTML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testfiles2/html.html"
+      },
+      "5f166373-4a5a-4056-a92b-2f011328b5ce": {
+        "id": "5f166373-4a5a-4056-a92b-2f011328b5ce",
+        "parent": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "name": "css.css",
+        "type": "CSS_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testfiles2/css.css"
+      },
+      "27d80b4f-4589-4566-a02b-e8b990cc736e": {
+        "id": "27d80b4f-4589-4566-a02b-e8b990cc736e",
+        "parent": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "name": "xml.xml",
+        "type": "XML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testfiles2/xml.xml"
+      },
+      "7f734a3c-1439-4721-a4b8-b238bcd3a25c": {
+        "id": "7f734a3c-1439-4721-a4b8-b238bcd3a25c",
+        "parent": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "name": "text.txt",
+        "type": "TEXT_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testfiles2/text.txt"
+      },
+      "041e43bb-1cc7-4b0c-8736-c8ae94e376b5": {
+        "id": "041e43bb-1cc7-4b0c-8736-c8ae94e376b5",
+        "parent": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "name": "json.json",
+        "type": "JSON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testfiles2/json.json"
+      },
+      "c2cb793c-dda5-4d98-9e4f-5aef464574e6": {
+        "id": "c2cb793c-dda5-4d98-9e4f-5aef464574e6",
+        "parent": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "name": "python.py",
+        "type": "PYTHON_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testfiles2/python.py",
+        "config": {
+          "runtime": "python2.7",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": []
+        },
+        "triggers": [
+          {
+            "resourceName": "apigusEast1sachithraAPInameteststgingindany",
+            "config": {}
+          }
+        ]
+      },
+      "63a4046e-f47b-4a8f-86f2-ac53c8ce0996": {
+        "id": "63a4046e-f47b-4a8f-86f2-ac53c8ce0996",
+        "parent": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "name": "__init__.py",
+        "type": "PYTHON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testfiles2/__init__.py"
+      },
+      "5dddc8ad-e1e5-4aaa-b43a-5b34acda7d87": {
+        "id": "5dddc8ad-e1e5-4aaa-b43a-5b34acda7d87",
+        "parent": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "name": "sub",
+        "type": "DIRECTORY",
+        "isDirectory": true,
+        "children": [
+          "d43bbc23-0917-4898-a0c9-07d01f5b33bd"
+        ],
+        "isRemovable": true,
+        "filePath": "testfiles2/sub"
+      },
+      "d43bbc23-0917-4898-a0c9-07d01f5b33bd": {
+        "id": "d43bbc23-0917-4898-a0c9-07d01f5b33bd",
+        "parent": "5dddc8ad-e1e5-4aaa-b43a-5b34acda7d87",
+        "name": "jsninsub.json",
+        "type": "JSON_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testfiles2/sub/jsninsub.json"
+      },
+      "fad21ef7-8ed1-4428-893c-724fc7f0e085": {
+        "id": "fad21ef7-8ed1-4428-893c-724fc7f0e085",
+        "parent": "a3f17619-a9eb-477b-b8da-563c55c84769",
+        "name": "html2.html",
+        "type": "HTML_FILE",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "testfiles2/html2.html"
+      }
+    },
+    "rootNode": "a3f17619-a9eb-477b-b8da-563c55c84769",
+    "openFiles": [
+      "59c4c372-01e8-44a7-aa95-bdedfbe7b2e6",
+      "48987333-5fd4-445b-aa0b-f73d098b7055",
+      "5f166373-4a5a-4056-a92b-2f011328b5ce",
+      "27d80b4f-4589-4566-a02b-e8b990cc736e",
+      "7f734a3c-1439-4721-a4b8-b238bcd3a25c",
+      "041e43bb-1cc7-4b0c-8736-c8ae94e376b5",
+      "c2cb793c-dda5-4d98-9e4f-5aef464574e6",
+      "d43bbc23-0917-4898-a0c9-07d01f5b33bd",
+      "fad21ef7-8ed1-4428-893c-724fc7f0e085"
+    ],
+    "currentFileId": "fad21ef7-8ed1-4428-893c-724fc7f0e085",
+    "resources": {
+      "apigusEast1sachithraAPInameteststgingindany": {
+        "name": "apigusEast1sachithraAPInameteststgingindany",
+        "type": "API_GATEWAY",
+        "config": {
+          "selectedRegion": "us-east-1",
+          "apiMode": 1,
+          "apiName": "sachithraAPIname",
+          "apiId": "052p9kjn18",
+          "endpointType": "REGIONAL",
+          "rootResourceId": "zrjp6rdv3b",
+          "existingResources": {
+            "/": "zrjp6rdv3b"
+          },
+          "resourceMode": 0,
+          "resourceName": "test/stging/ind",
+          "resourcePath": "/test/stging/ind",
+          "restMethod": "ANY",
+          "proxyIntegration": false,
+          "enableCORS": false,
+          "stageMode": 1,
+          "stageName": "Test",
+          "stageDeploymentId": "8ni5nh",
+          "mode": 1
+        }
+      },
+      "apigusEast1indunilzooindunilqasnsany": {
+        "name": "apigusEast1indunilzooindunilqasnsany",
+        "type": "API_GATEWAY",
+        "config": {
+          "selectedRegion": "us-east-1",
+          "apiMode": 1,
+          "apiName": "indunilzoo",
+          "apiId": "6o600ye7x1",
+          "endpointType": "REGIONAL",
+          "rootResourceId": "vcaf47f804",
+          "existingResources": {
+            "/indunilTest": "qbvxw0",
+            "/": "vcaf47f804"
+          },
+          "resourceMode": 0,
+          "resourceName": "indunil/qa/sns",
+          "resourcePath": "/indunil/qa/sns",
+          "restMethod": "ANY",
+          "proxyIntegration": false,
+          "enableCORS": false,
+          "stageMode": 0,
+          "stageName": "test11",
+          "mode": 1
+        }
+      }
+    },
+    "customTemplate": {
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      },
+      {
+        "lambdaId": "c2cb793c-dda5-4d98-9e4f-5aef464574e6",
+        "varKey": "PYTHONPATH",
+        "varValue": "/var/runtime:/var/task/testfiles2",
+        "shouldPersist": true,
+        "displayOnly": false,
+        "editable": true
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "projectName": "testfiles2",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "platformRegions": {},
+    "lastSave": 1576747270445
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "testfiles2",
+      "url": "https://github.com/Indunil1992/testfiles2"
+    }
+  }
+}
